@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
-Every now and then whenever I stumble upon amazing tutorials, blogs, posts, and videos,
+Every now and then whenever I stumble upon helpful tutorials, blogs, posts, and videos,
 I will be featuring the amazing teachers here as a means of thanking them for sharing their knowledge throughout the world.
 Feel free to bookmark this page.
 
